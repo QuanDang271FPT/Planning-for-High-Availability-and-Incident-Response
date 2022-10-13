@@ -1,8 +1,7 @@
 # Infrastructure
 
 ## AWS Zones
-Identify your zones here
-
+sdadsasaddsa
 ## Servers and Clusters
 
 ### Table 1.1 Summary
